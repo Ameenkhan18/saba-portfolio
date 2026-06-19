@@ -45,7 +45,7 @@ export function About() {
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent z-10" />
 
               <Image
-                src="https://i.pinimg.com/736x/38/b1/7c/38b17c764e6f9738a360913b16d88765.jpg"
+                src="http://i.pinimg.com/736x/b4/30/42/b43042fb3f4780ba08c6b90897566c75.jpg"
                 alt="Saba Kulsum"
                 width={800}
                 height={1200}

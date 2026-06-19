@@ -46,7 +46,7 @@ export function About() {
 
               <Image
                 src="https://i.pinimg.com/736x/38/b1/7c/38b17c764e6f9738a360913b16d88765.jpg"
-                alt="Ameen Khan"
+                alt="Saba Kulsum"
                 width={800}
                 height={1200}
                 className="h-full w-full object-cover"
@@ -55,7 +55,7 @@ export function About() {
               <div className="absolute bottom-0 left-0 z-20 w-full p-8">
 
                 <h3 className="text-3xl font-bold text-white">
-                  Ameen Khan S A
+                  Saba Kulsum
                 </h3>
 
                 <p className="mt-2 text-white/70">

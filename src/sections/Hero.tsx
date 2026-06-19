@@ -34,7 +34,7 @@ export function Hero() {
           >
             Hi, I'm{" "}
             <span className="text-gradient-shimmer">
-              Saba KUlsum
+              Saba Kulsum
             </span>
           </motion.h1>
 

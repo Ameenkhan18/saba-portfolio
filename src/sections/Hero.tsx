@@ -34,7 +34,7 @@ export function Hero() {
           >
             Hi, I'm{" "}
             <span className="text-gradient-shimmer">
-              Ameen Khan
+              Saba KUlsum
             </span>
           </motion.h1>
 
@@ -76,7 +76,7 @@ export function Hero() {
           >
             <div className="mb-8">
               <p className="text-xl font-medium text-white/90">
-                Ask anything about Ameen...
+                Ask anything about Saba...
               </p>
 
               <p className="mt-2 text-sm text-(--muted)">

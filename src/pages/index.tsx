@@ -16,7 +16,7 @@ export default function HomePage() {
   return (
     <>
       <Head>
-        <title>Ameen Khan | Portfolio</title>
+        <title>SABA KULSUM | Portfolio</title>
 
         <meta
           name="description"
